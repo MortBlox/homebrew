@@ -5,7 +5,7 @@
 2. A USB Drive **Formatted to FAT32** (for storing games)
 3. An SD Card **Formatted to FAT32** (for storing Homebrew Apps/NAND Backup)
 4. An Active Internet Connection
-5. A Windows PC (If you want to install RiiConnect24)
+5. A Windows PC (If you want to install RiiConnect24) <a href="http://www.something.com"> RiiConnect24 </a>
 
 ## Installing the Homebrew Channel (using str2hax):
   Begin with installing the following files
